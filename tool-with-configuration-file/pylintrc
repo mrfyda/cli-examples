@@ -1,0 +1,12 @@
+[MESSAGES CONTROL]
+
+enable=no-member,
+       # This is nice
+       consider-using-enumerate,
+       # This is great to have as well
+       unbalanced-tuple-unpacking
+
+[BASIC]
+argument-rgx = ala
+module-rgx = bala
+inlinevar-rgx = portocala
